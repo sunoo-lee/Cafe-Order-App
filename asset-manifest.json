@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cafe-Order-App/static/css/main.515a48a0.css",
+    "main.js": "/Cafe-Order-App/static/js/main.bd475213.js",
+    "static/media/cafe.jpg": "/Cafe-Order-App/static/media/cafe.de917f3f39f035b8f0e0.jpg",
+    "index.html": "/Cafe-Order-App/index.html",
+    "main.515a48a0.css.map": "/Cafe-Order-App/static/css/main.515a48a0.css.map",
+    "main.bd475213.js.map": "/Cafe-Order-App/static/js/main.bd475213.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.515a48a0.css",
+    "static/js/main.bd475213.js"
+  ]
+}
